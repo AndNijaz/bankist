@@ -14,7 +14,7 @@ Bankist is a modern, single-page banking application designed to showcase stream
 - **Fund Transfers**: Ability to send money between accounts.
 - **Loan Requests**: Request loans with a simplified approval process.
 - **Close Account**: Option to delete user accounts securely.
-- 
+  
 ---
 
 ## Technologies Used
